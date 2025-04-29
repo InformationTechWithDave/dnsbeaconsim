@@ -12,6 +12,8 @@ For my own professional education, I was wondering if I would be able to create 
 
 The script wasn't perfect in the first iteration and I kept getting an error about a global declaration being out of order. However, going back and forth with the AI allowed me to troubleshoot and fix it so that it runs properly on my MacBook running macOS 15.4 Sequoia.
 
+You will need Python3 installed to run this script.
+
 To run the script save it to your machine, open a terminal in the directory with it, and enter the following command:
 
 % python3 dns-beacon-dashboard.py example.com -i 5 -j 2
